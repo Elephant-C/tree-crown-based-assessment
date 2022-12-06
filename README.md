@@ -6,7 +6,7 @@ data is only accurate for canopy trees.__*
 
 __If you use code from this repository in your work, please cite the following paper in a proper way:__
 
-*${Yujie Cao}^{*}$, James G C Ball, David A. Coomes, Leon Steinmeier, Nikolai Knapp, Phil Wilkes, Kim Calders, Andrew Burt, Mathias Disney, Yi Lin, and Tobias D. Jackson${}^{*}$. Tree segmentation in airborne laser scanning
+*Yujie Cao^*, James G C Ball, David A. Coomes, Leon Steinmeier, Nikolai Knapp, Phil Wilkes, Kim Calders, Andrew Burt, Mathias Disney, Yi Lin, and Tobias D. Jackson. Tree segmentation in airborne laser scanning
 data is only accurate for canopy trees.* (*__Pre-print DOI__* :https://doi.org/10.1101/2022.11.29.518407).
 
 ## Requirement ##
