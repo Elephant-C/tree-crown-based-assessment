@@ -57,16 +57,16 @@ There are four main steps in the framework:
 + Precision, Recall and F1 Score calculation
 
 <p align="center">
-<img width="300" align="center" alt="predictions" src=./Figures/assessment_strategy.png>
+<img width="300" align="center" alt="predictions" src= ./Figures/assessment_strategy.png>
 </p>
 
 ## Main Result ##
 <p align="center">
-<img width="500" align="center" alt="predictions" src=./Figures/sepilok_p_r_f1_height.png>
+<img width="500" align="center" alt="predictions" src= ./Figures/sepilok_p_r_f1_height.png>
 </p>
 
 <p align="center">
-<img width="500" align="center" alt="predictions" src=./Figures/allometry_IoU_scatter.png>
+<img width="500" align="center" alt="predictions" src= ./Figures/allometry_IoU_scatter.png>
 </p>
 
 ## USPS ##
