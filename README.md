@@ -1,6 +1,6 @@
 # 2D Tree crown polygon-based assessment for airborne LiDAR-based individual tree segmentation methods #
 
- [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Detectree CI](https://github.com/patball1/detectree2/actions/workflows/python-ci.yml/badge.svg)](https://github.com/patball1/detectree2/actions/workflows/python-ci.yml)[![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
  
 ## Project Overview ##
 The repository was developed by Yujie Cao, in close collaborations with [Tobias. D Jackson](https://github.com/TobyDJackson), [James Ball](https://github.com/PatBall1), during his visiting at Forest Conservation Group led by professor [David A. Coomes](https://scholar.google.com/citations?user=CXkjEhIAAAAJ&hl=en&oi=ao), and the group is part of the University of Cambridge [Conservation Research Institute](https://www.conservation.cam.ac.uk/). 
