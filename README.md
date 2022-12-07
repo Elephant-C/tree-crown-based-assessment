@@ -47,7 +47,7 @@ data is only accurate for canopy trees.* (*__Pre-print DOI__* :https://doi.org/1
 └── requirements
 ```
 
-## Workfolow ##
+## Workflow ##
 
 There are four main steps in the framework:
 
