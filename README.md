@@ -2,7 +2,7 @@
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
  
-## Project Overview ##
+## Overview ##
 The repository was developed by Yujie Cao, in close collaborations with [Tobias. D Jackson](https://github.com/TobyDJackson), [James Ball](https://github.com/PatBall1), during his visiting at Forest Conservation Group led by professor [David A. Coomes](https://scholar.google.com/citations?user=CXkjEhIAAAAJ&hl=en&oi=ao). The group is part of the University of Cambridge [Conservation Research Institute](https://www.conservation.cam.ac.uk/). 
 
 This repository conducts robust inter-comparison for state-of-the-art airborne lidar point cloud based individual tree segmentation algorithms ([Dalponte2016](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12575), [Dalponte2016+](https://www.sciencedirect.com/science/article/pii/S0034425717301098), [li2012](https://www.ingentaconnect.com/content/asprs/pers/2012/00000078/00000001/art00006), and [AMS3D](https://www.sciencedirect.com/science/article/abs/pii/S0034425716302292)) in temperate forest (Wytham Woods in the UK) and tropical rainforests(Sepilok Forest in Sabah, Maylaysia). For more information about this work, please refer to: *__Tree segmentation in airborne laser scanning
@@ -26,7 +26,7 @@ data is only accurate for canopy trees.* (*__Pre-print DOI__* :https://doi.org/1
 + tqdm
 + pickle
 
-## Project Organization ##
+## Organization ##
 ```
 ├── README.md
 ├── utils                                   <- Basic dependency code demoe for Predicted and benchmark polygon matching
