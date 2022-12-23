@@ -33,11 +33,10 @@ data is only accurate for canopy trees.* (*__Pre-print DOI__* :https://doi.org/1
 |   ├── Evaluation.py
 |   ├── rand_cmap.py
 |   ├── LabelCorrect.py            
-├── Algorithm implementartion
-|   ├── Dalponte2016plus.R                  <- Implement Dalponte2016 within parameter space and the output can be either .csv or .hdf5
-|   ├── Dalponte2016plus_areaCrop.R         <- Batchly core area filtering for predictions from Dalponte2016 
-├── Assessment metrics calculation              
-|   ├── dalponte2016plus_p_r_f1.py
+├── assessment           
+|   ├── calculate_p_r_f1.py                 <- calculate precision, recall and f1 score matrix.
+|   ├── implement_algorithms.R              <- implement 4 state-of-the-art ITS algorithms included in our paper
+|   ├── separate_p_r_f1.py                  <- Separately store precision, recall and f1 score after calculate_p_r_f1.py
 ├── Make figures and visualization   
 |   ├── p_r_f_matrix.py                     <- Calculate matrix plot for precision, recall and F1 score                   
 |   ├── p_r_f1_height.py                    <- Calculate matrix plot for precision, recall and F1 score           
